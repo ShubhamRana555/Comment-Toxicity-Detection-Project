@@ -156,7 +156,7 @@ const Model = () => {
                 className="learn-more-btn"
                 whileHover={{ scale: 1.05, backgroundColor: '#2980b9' }}
                 whileTap={{ scale: 0.95 }}
-                href="https://drive.google.com/file/d/1yPMciZxVCOdUG5pH1dSZKECuvt8HbY4N/view?usp=sharing"
+                href="https://4cff00e9e8fbdba37b.gradio.live"
                 target="_blank"
                 rel="noopener noreferrer"
                 style={{
